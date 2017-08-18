@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 This is in branch
+=======
+
+
+
+My recipies
+
+chicken curry
+pasta
+pizza
+
+
+biryani
+
+garlic bread
+
+thank you
+>>>>>>> 6a42497ac8418824f1898aac84910bd23a78ce65
